@@ -49,6 +49,12 @@
                         </div>
                     </div>
                 </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link" role="button">
+                        <i class="ni ni-ui-04 d-lg-none"></i>
+                        <span class="nav-link-inner--text">Register</span>
+                    </a>
+                </li>
                 <li class="nav-item dropdown">
                     <a href="#" class="nav-link" data-toggle="dropdown" role="button">
                         <i class="ni ni-collection d-lg-none"></i>
