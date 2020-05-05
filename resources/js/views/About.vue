@@ -19,28 +19,13 @@
                     <div class="col px-0">
                         <div class="row">
                             <div class="col-lg-6">
-                                <h1 class="display-3  text-white">A beautiful Design System
-                                    <span>completed with examples</span>
+                                <h1 class="display-3  text-white">
+                                    About Us
+                                    <span>Enim ad enim excepteur.</span>
                                 </h1>
-                                <p class="lead  text-white">The design system comes with four pre-built pages to help
-                                    you get started faster. You can change the text and images and you're good to
-                                    go.</p>
-                                <div class="btn-wrapper">
-                                    <base-button tag="a"
-                                                 href="https://demos.creative-tim.com/argon-design-system/docs/components/alerts.html"
-                                                 class="mb-3 mb-sm-0"
-                                                 type="info"
-                                                 icon="fa fa-code">
-                                        Components
-                                    </base-button>
-                                    <base-button tag="a"
-                                                 href="https://www.creative-tim.com/product/argon-design-system"
-                                                 class="mb-3 mb-sm-0"
-                                                 type="white"
-                                                 icon="ni ni-cloud-download-95">
-                                        Download HTML
-                                    </base-button>
-                                </div>
+                                <p class="lead  text-white">
+                                    Ipsum incididunt occaecat veniam magna exercitation tempor ad laboris excepteur ipsum ea reprehenderit.
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -57,9 +42,10 @@
                                 <card class="border-0" hover shadow body-classes="py-5">
                                     <icon name="ni ni-check-bold" type="primary" rounded class="mb-4">
                                     </icon>
-                                    <h6 class="text-primary text-uppercase">Download Argon</h6>
-                                    <p class="description mt-3">Argon is a great free UI package based on Bootstrap 4
-                                        that includes the most important components and features.</p>
+                                    <h6 class="text-primary text-uppercase">Great Results</h6>
+                                    <p class="description mt-3">
+                                        Commodo non elit deserunt sunt. Esse id amet laborum do. Non qui minim adipisicing dolore exercitation excepteur nostrud labore voluptate ut.
+                                    </p>
                                     <div>
                                         <badge type="primary" rounded>design</badge>
                                         <badge type="primary" rounded>system</badge>
@@ -75,8 +61,9 @@
                                     <icon name="ni ni-istanbul" type="success" rounded class="mb-4">
                                     </icon>
                                     <h6 class="text-success text-uppercase">Build Something</h6>
-                                    <p class="description mt-3">Argon is a great free UI package based on Bootstrap
-                                        4 that includes the most important components and features.</p>
+                                    <p class="description mt-3">
+                                        Commodo non elit deserunt sunt. Esse id amet laborum do. Non qui minim adipisicing dolore exercitation excepteur nostrud labore voluptate ut.
+                                    </p>
                                     <div>
                                         <badge type="success" rounded>business</badge>
                                         <badge type="success" rounded>vision</badge>
@@ -92,8 +79,9 @@
                                     <icon name="ni ni-planet" type="warning" rounded class="mb-4">
                                     </icon>
                                     <h6 class="text-warning text-uppercase">Prepare Launch</h6>
-                                    <p class="description mt-3">Argon is a great free UI package based on Bootstrap
-                                        4 that includes the most important components and features.</p>
+                                    <p class="description mt-3">
+                                        Commodo non elit deserunt sunt. Esse id amet laborum do. Non qui minim adipisicing dolore exercitation excepteur nostrud labore voluptate ut.
+                                    </p>
                                     <div>
                                         <badge type="warning" rounded>marketing</badge>
                                         <badge type="warning" rounded>product</badge>
@@ -113,7 +101,7 @@
             <div class="container">
                 <div class="row row-grid align-items-center">
                     <div class="col-md-6 order-md-2">
-                        <img src="img/theme/promo-1.png" class="img-fluid floating">
+                        <img src="/images/seo.jpg" class="img-fluid floating">
                     </div>
                     <div class="col-md-6 order-md-1">
                         <div class="pr-md-5">
@@ -197,7 +185,7 @@
                 <div class="row row-grid align-items-center">
                     <div class="col-md-6 order-lg-2 ml-lg-auto">
                         <div class="position-relative pl-md-5">
-                            <img src="img/ill/ill-2.svg" class="img-center img-fluid">
+                            <img src="images/office.jpg" class="img-center img-fluid">
                         </div>
                     </div>
                     <div class="col-lg-6 order-lg-1">
@@ -256,49 +244,46 @@
                 <div class="row">
                     <div class="col-md-6 col-lg-3 mb-5 mb-lg-0">
                         <div class="px-4">
-                            <img v-lazy="'img/theme/team-1-800x800.jpg'"
+                            <img v-lazy="'images/profiles/1.jpg'"
                                  class="rounded-circle img-center img-fluid shadow shadow-lg--hover"
                                  style="width: 200px;">
                             <div class="pt-4 text-center">
                                 <h5 class="title">
-                                    <span class="d-block mb-1">Ryan Tompson</span>
+                                    <span class="d-block mb-1">James Jomuad</span>
                                     <small class="h6 text-muted">Web Developer</small>
                                 </h5>
                                 <div class="mt-3">
-                                    <base-button tag="a" href="#" type="warning" icon="fa fa-twitter" rounded
-                                                 icon-only></base-button>
-                                    <base-button tag="a" href="#" type="warning" icon="fa fa-facebook" rounded
-                                                 icon-only></base-button>
-                                    <base-button tag="a" href="#" type="warning" icon="fa fa-dribbble" rounded
-                                                 icon-only></base-button>
+                                    <base-button tag="a" href="#" type="warning" icon="fa fa-twitter" rounded icon-only></base-button>
+                                    <base-button tag="a" href="#" type="warning" icon="fa fa-facebook" rounded icon-only></base-button>
+                                    <base-button tag="a" href="#" type="warning" icon="fa fa-dribbble" rounded icon-only></base-button>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-3 mb-5 mb-lg-0">
                         <div class="px-4">
-                            <img v-lazy="'img/theme/team-2-800x800.jpg'"
+                            <img v-lazy="'images/profiles/2.jpg'"
                                  class="rounded-circle img-center img-fluid shadow shadow-lg--hover"
                                  style="width: 200px;">
                             <div class="pt-4 text-center">
                                 <h5 class="title">
-                                    <span class="d-block mb-1">Romina Hadid</span>
+                                    <span class="d-block mb-1">Jose Rizal</span>
                                     <small class="h6 text-muted">Marketing Strategist</small>
                                 </h5>
                                 <div class="mt-3">
-                                    <base-button tag="a" href="#" type="primary" icon="fa fa-twitter" rounded
-                                                 icon-only></base-button>
+                                    <base-button tag="a" href="#" type="primary" icon="fa fa-twitter" rounded icon-only>
+                                    </base-button>
                                     <base-button tag="a" href="#" type="primary" icon="fa fa-facebook" rounded
-                                                 icon-only></base-button>
+                                        icon-only></base-button>
                                     <base-button tag="a" href="#" type="primary" icon="fa fa-dribbble" rounded
-                                                 icon-only></base-button>
+                                        icon-only></base-button>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-3 mb-5 mb-lg-0">
                         <div class="px-4">
-                            <img v-lazy="'img/theme/team-3-800x800.jpg'"
+                            <img v-lazy="'images/profiles/3.jpg'"
                                  class="rounded-circle img-center img-fluid shadow shadow-lg--hover"
                                  style="width: 200px;">
                             <div class="pt-4 text-center">
@@ -319,7 +304,7 @@
                     </div>
                     <div class="col-md-6 col-lg-3 mb-5 mb-lg-0">
                         <div class="px-4">
-                            <img v-lazy="'img/theme/team-4-800x800.jpg'"
+                            <img v-lazy="'images/profiles/4.jpg'"
                                  class="rounded-circle img-center img-fluid shadow shadow-lg--hover"
                                  style="width: 200px;">
                             <div class="pt-4 text-center">
@@ -355,9 +340,8 @@
                                     worth billions of dollars, because I got the answers. I understand culture.</p>
                             </div>
                             <div class="col-lg-3 ml-lg-auto">
-                                <base-button tag="a" href="https://www.creative-tim.com/product/vue-argon-design-system"
-                                             type="white" block size="lg">
-                                    Download Vue
+                                <base-button tag="a" href="/#/contact" type="white" block size="lg">
+                                    Contact Us
                                 </base-button>
                             </div>
                         </div>

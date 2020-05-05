@@ -2705,22 +2705,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
 /* harmony default export */ __webpack_exports__["default"] = ({
   name: "home",
   components: {}
@@ -16490,72 +16474,7 @@ var render = function() {
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
   return _c("div", [
-    _c("div", { staticClass: "position-relative" }, [
-      _c("section", { staticClass: "section-shaped my-0" }, [
-        _vm._m(0),
-        _vm._v(" "),
-        _c("div", { staticClass: "container shape-container d-flex" }, [
-          _c("div", { staticClass: "col px-0" }, [
-            _c("div", { staticClass: "row" }, [
-              _c("div", { staticClass: "col-lg-6" }, [
-                _vm._m(1),
-                _vm._v(" "),
-                _c("p", { staticClass: "lead  text-white" }, [
-                  _vm._v(
-                    "The design system comes with four pre-built pages to help\n                                you get started faster. You can change the text and images and you're good to\n                                go."
-                  )
-                ]),
-                _vm._v(" "),
-                _c(
-                  "div",
-                  { staticClass: "btn-wrapper" },
-                  [
-                    _c(
-                      "base-button",
-                      {
-                        staticClass: "mb-3 mb-sm-0",
-                        attrs: {
-                          tag: "a",
-                          href:
-                            "https://demos.creative-tim.com/argon-design-system/docs/components/alerts.html",
-                          type: "info",
-                          icon: "fa fa-code"
-                        }
-                      },
-                      [
-                        _vm._v(
-                          "\n                                    Components\n                                "
-                        )
-                      ]
-                    ),
-                    _vm._v(" "),
-                    _c(
-                      "base-button",
-                      {
-                        staticClass: "mb-3 mb-sm-0",
-                        attrs: {
-                          tag: "a",
-                          href:
-                            "https://www.creative-tim.com/product/argon-design-system",
-                          type: "white",
-                          icon: "ni ni-cloud-download-95"
-                        }
-                      },
-                      [
-                        _vm._v(
-                          "\n                                    Download HTML\n                                "
-                        )
-                      ]
-                    )
-                  ],
-                  1
-                )
-              ])
-            ])
-          ])
-        ])
-      ])
-    ]),
+    _vm._m(0),
     _vm._v(" "),
     _c("section", { staticClass: "section section-lg pt-lg-0 mt--200" }, [
       _c("div", { staticClass: "container" }, [
@@ -16583,12 +16502,12 @@ var render = function() {
                       }),
                       _vm._v(" "),
                       _c("h6", { staticClass: "text-primary text-uppercase" }, [
-                        _vm._v("Download Argon")
+                        _vm._v("Great Results")
                       ]),
                       _vm._v(" "),
                       _c("p", { staticClass: "description mt-3" }, [
                         _vm._v(
-                          "Argon is a great free UI package based on Bootstrap 4\n                                    that includes the most important components and features."
+                          "\n                                    Commodo non elit deserunt sunt. Esse id amet laborum do. Non qui minim adipisicing dolore exercitation excepteur nostrud labore voluptate ut.\n                                "
                         )
                       ]),
                       _vm._v(" "),
@@ -16661,7 +16580,7 @@ var render = function() {
                       _vm._v(" "),
                       _c("p", { staticClass: "description mt-3" }, [
                         _vm._v(
-                          "Argon is a great free UI package based on Bootstrap\n                                    4 that includes the most important components and features."
+                          "\n                                    Commodo non elit deserunt sunt. Esse id amet laborum do. Non qui minim adipisicing dolore exercitation excepteur nostrud labore voluptate ut.\n                                "
                         )
                       ]),
                       _vm._v(" "),
@@ -16734,7 +16653,7 @@ var render = function() {
                       _vm._v(" "),
                       _c("p", { staticClass: "description mt-3" }, [
                         _vm._v(
-                          "Argon is a great free UI package based on Bootstrap\n                                    4 that includes the most important components and features."
+                          "\n                                    Commodo non elit deserunt sunt. Esse id amet laborum do. Non qui minim adipisicing dolore exercitation excepteur nostrud labore voluptate ut.\n                                "
                         )
                       ]),
                       _vm._v(" "),
@@ -16789,7 +16708,7 @@ var render = function() {
     _c("section", { staticClass: "section section-lg" }, [
       _c("div", { staticClass: "container" }, [
         _c("div", { staticClass: "row row-grid align-items-center" }, [
-          _vm._m(2),
+          _vm._m(1),
           _vm._v(" "),
           _c("div", { staticClass: "col-md-6 order-md-1" }, [
             _c(
@@ -17006,11 +16925,11 @@ var render = function() {
       "section",
       { staticClass: "section section section-shaped my-0 overflow-hidden" },
       [
-        _vm._m(3),
+        _vm._m(2),
         _vm._v(" "),
         _c("div", { staticClass: "container py-0" }, [
           _c("div", { staticClass: "row row-grid align-items-center" }, [
-            _vm._m(4),
+            _vm._m(3),
             _vm._v(" "),
             _c(
               "div",
@@ -17034,7 +16953,7 @@ var render = function() {
                     1
                   ),
                   _vm._v(" "),
-                  _vm._m(5)
+                  _vm._m(4)
                 ]),
                 _vm._v(" "),
                 _c(
@@ -17136,7 +17055,7 @@ var render = function() {
     _vm._v(" "),
     _c("section", { staticClass: "section section-lg" }, [
       _c("div", { staticClass: "container" }, [
-        _vm._m(6),
+        _vm._m(5),
         _vm._v(" "),
         _c("div", { staticClass: "row" }, [
           _c("div", { staticClass: "col-md-6 col-lg-3 mb-5 mb-lg-0" }, [
@@ -17146,8 +17065,70 @@ var render = function() {
                   {
                     name: "lazy",
                     rawName: "v-lazy",
-                    value: "img/theme/team-1-800x800.jpg",
-                    expression: "'img/theme/team-1-800x800.jpg'"
+                    value: "images/profiles/1.jpg",
+                    expression: "'images/profiles/1.jpg'"
+                  }
+                ],
+                staticClass:
+                  "rounded-circle img-center img-fluid shadow shadow-lg--hover",
+                staticStyle: { width: "200px" }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "pt-4 text-center" }, [
+                _vm._m(6),
+                _vm._v(" "),
+                _c(
+                  "div",
+                  { staticClass: "mt-3" },
+                  [
+                    _c("base-button", {
+                      attrs: {
+                        tag: "a",
+                        href: "#",
+                        type: "warning",
+                        icon: "fa fa-twitter",
+                        rounded: "",
+                        "icon-only": ""
+                      }
+                    }),
+                    _vm._v(" "),
+                    _c("base-button", {
+                      attrs: {
+                        tag: "a",
+                        href: "#",
+                        type: "warning",
+                        icon: "fa fa-facebook",
+                        rounded: "",
+                        "icon-only": ""
+                      }
+                    }),
+                    _vm._v(" "),
+                    _c("base-button", {
+                      attrs: {
+                        tag: "a",
+                        href: "#",
+                        type: "warning",
+                        icon: "fa fa-dribbble",
+                        rounded: "",
+                        "icon-only": ""
+                      }
+                    })
+                  ],
+                  1
+                )
+              ])
+            ])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "col-md-6 col-lg-3 mb-5 mb-lg-0" }, [
+            _c("div", { staticClass: "px-4" }, [
+              _c("img", {
+                directives: [
+                  {
+                    name: "lazy",
+                    rawName: "v-lazy",
+                    value: "images/profiles/2.jpg",
+                    expression: "'images/profiles/2.jpg'"
                   }
                 ],
                 staticClass:
@@ -17166,7 +17147,7 @@ var render = function() {
                       attrs: {
                         tag: "a",
                         href: "#",
-                        type: "warning",
+                        type: "primary",
                         icon: "fa fa-twitter",
                         rounded: "",
                         "icon-only": ""
@@ -17177,7 +17158,7 @@ var render = function() {
                       attrs: {
                         tag: "a",
                         href: "#",
-                        type: "warning",
+                        type: "primary",
                         icon: "fa fa-facebook",
                         rounded: "",
                         "icon-only": ""
@@ -17188,7 +17169,7 @@ var render = function() {
                       attrs: {
                         tag: "a",
                         href: "#",
-                        type: "warning",
+                        type: "primary",
                         icon: "fa fa-dribbble",
                         rounded: "",
                         "icon-only": ""
@@ -17208,8 +17189,8 @@ var render = function() {
                   {
                     name: "lazy",
                     rawName: "v-lazy",
-                    value: "img/theme/team-2-800x800.jpg",
-                    expression: "'img/theme/team-2-800x800.jpg'"
+                    value: "images/profiles/3.jpg",
+                    expression: "'images/profiles/3.jpg'"
                   }
                 ],
                 staticClass:
@@ -17228,7 +17209,7 @@ var render = function() {
                       attrs: {
                         tag: "a",
                         href: "#",
-                        type: "primary",
+                        type: "info",
                         icon: "fa fa-twitter",
                         rounded: "",
                         "icon-only": ""
@@ -17239,7 +17220,7 @@ var render = function() {
                       attrs: {
                         tag: "a",
                         href: "#",
-                        type: "primary",
+                        type: "info",
                         icon: "fa fa-facebook",
                         rounded: "",
                         "icon-only": ""
@@ -17250,7 +17231,7 @@ var render = function() {
                       attrs: {
                         tag: "a",
                         href: "#",
-                        type: "primary",
+                        type: "info",
                         icon: "fa fa-dribbble",
                         rounded: "",
                         "icon-only": ""
@@ -17270,8 +17251,8 @@ var render = function() {
                   {
                     name: "lazy",
                     rawName: "v-lazy",
-                    value: "img/theme/team-3-800x800.jpg",
-                    expression: "'img/theme/team-3-800x800.jpg'"
+                    value: "images/profiles/4.jpg",
+                    expression: "'images/profiles/4.jpg'"
                   }
                 ],
                 staticClass:
@@ -17281,68 +17262,6 @@ var render = function() {
               _vm._v(" "),
               _c("div", { staticClass: "pt-4 text-center" }, [
                 _vm._m(9),
-                _vm._v(" "),
-                _c(
-                  "div",
-                  { staticClass: "mt-3" },
-                  [
-                    _c("base-button", {
-                      attrs: {
-                        tag: "a",
-                        href: "#",
-                        type: "info",
-                        icon: "fa fa-twitter",
-                        rounded: "",
-                        "icon-only": ""
-                      }
-                    }),
-                    _vm._v(" "),
-                    _c("base-button", {
-                      attrs: {
-                        tag: "a",
-                        href: "#",
-                        type: "info",
-                        icon: "fa fa-facebook",
-                        rounded: "",
-                        "icon-only": ""
-                      }
-                    }),
-                    _vm._v(" "),
-                    _c("base-button", {
-                      attrs: {
-                        tag: "a",
-                        href: "#",
-                        type: "info",
-                        icon: "fa fa-dribbble",
-                        rounded: "",
-                        "icon-only": ""
-                      }
-                    })
-                  ],
-                  1
-                )
-              ])
-            ])
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "col-md-6 col-lg-3 mb-5 mb-lg-0" }, [
-            _c("div", { staticClass: "px-4" }, [
-              _c("img", {
-                directives: [
-                  {
-                    name: "lazy",
-                    rawName: "v-lazy",
-                    value: "img/theme/team-4-800x800.jpg",
-                    expression: "'img/theme/team-4-800x800.jpg'"
-                  }
-                ],
-                staticClass:
-                  "rounded-circle img-center img-fluid shadow shadow-lg--hover",
-                staticStyle: { width: "200px" }
-              }),
-              _vm._v(" "),
-              _c("div", { staticClass: "pt-4 text-center" }, [
-                _vm._m(10),
                 _vm._v(" "),
                 _c(
                   "div",
@@ -17425,8 +17344,7 @@ var render = function() {
                         {
                           attrs: {
                             tag: "a",
-                            href:
-                              "https://www.creative-tim.com/product/vue-argon-design-system",
+                            href: "/#/contact",
                             type: "white",
                             block: "",
                             size: "lg"
@@ -17434,7 +17352,7 @@ var render = function() {
                         },
                         [
                           _vm._v(
-                            "\n                                Download Vue\n                            "
+                            "\n                                Contact Us\n                            "
                           )
                         ]
                       )
@@ -17454,10 +17372,10 @@ var render = function() {
       "section",
       { staticClass: "section section-shaped my-0 overflow-hidden" },
       [
-        _vm._m(11),
+        _vm._m(10),
         _vm._v(" "),
         _c("div", { staticClass: "container pt-lg pb-300" }, [
-          _vm._m(12),
+          _vm._m(11),
           _vm._v(" "),
           _c("div", { staticClass: "row row-grid mt-5" }, [
             _c(
@@ -17636,7 +17554,7 @@ var render = function() {
       _c("div", { staticClass: "container" }, [
         _c("div", { staticClass: "row row-grid justify-content-center" }, [
           _c("div", { staticClass: "col-lg-8 text-center" }, [
-            _vm._m(13),
+            _vm._m(12),
             _vm._v(" "),
             _c("p", { staticClass: "lead" }, [
               _vm._v(
@@ -17644,7 +17562,7 @@ var render = function() {
               )
             ]),
             _vm._v(" "),
-            _vm._m(14),
+            _vm._m(13),
             _vm._v(" "),
             _c("div", { staticClass: "text-center" }, [
               _c("h4", { staticClass: "display-4 mb-5 mt-5" }, [
@@ -17843,37 +17761,53 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c(
-      "div",
-      { staticClass: "shape shape-style-1 shape-default shape-skew" },
-      [
-        _c("span"),
+    return _c("div", { staticClass: "position-relative" }, [
+      _c("section", { staticClass: "section-shaped my-0" }, [
+        _c(
+          "div",
+          { staticClass: "shape shape-style-1 shape-default shape-skew" },
+          [
+            _c("span"),
+            _vm._v(" "),
+            _c("span"),
+            _vm._v(" "),
+            _c("span"),
+            _vm._v(" "),
+            _c("span"),
+            _vm._v(" "),
+            _c("span"),
+            _vm._v(" "),
+            _c("span"),
+            _vm._v(" "),
+            _c("span"),
+            _vm._v(" "),
+            _c("span"),
+            _vm._v(" "),
+            _c("span")
+          ]
+        ),
         _vm._v(" "),
-        _c("span"),
-        _vm._v(" "),
-        _c("span"),
-        _vm._v(" "),
-        _c("span"),
-        _vm._v(" "),
-        _c("span"),
-        _vm._v(" "),
-        _c("span"),
-        _vm._v(" "),
-        _c("span"),
-        _vm._v(" "),
-        _c("span"),
-        _vm._v(" "),
-        _c("span")
-      ]
-    )
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("h1", { staticClass: "display-3  text-white" }, [
-      _vm._v("A beautiful Design System\n                                "),
-      _c("span", [_vm._v("completed with examples")])
+        _c("div", { staticClass: "container shape-container d-flex" }, [
+          _c("div", { staticClass: "col px-0" }, [
+            _c("div", { staticClass: "row" }, [
+              _c("div", { staticClass: "col-lg-6" }, [
+                _c("h1", { staticClass: "display-3  text-white" }, [
+                  _vm._v(
+                    "\n                                About Us\n                                "
+                  ),
+                  _c("span", [_vm._v("Enim ad enim excepteur.")])
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "lead  text-white" }, [
+                  _vm._v(
+                    "\n                                Ipsum incididunt occaecat veniam magna exercitation tempor ad laboris excepteur ipsum ea reprehenderit.\n                            "
+                  )
+                ])
+              ])
+            ])
+          ])
+        ])
+      ])
     ])
   },
   function() {
@@ -17883,7 +17817,7 @@ var staticRenderFns = [
     return _c("div", { staticClass: "col-md-6 order-md-2" }, [
       _c("img", {
         staticClass: "img-fluid floating",
-        attrs: { src: "img/theme/promo-1.png" }
+        attrs: { src: "/images/seo.jpg" }
       })
     ])
   },
@@ -17917,7 +17851,7 @@ var staticRenderFns = [
       _c("div", { staticClass: "position-relative pl-md-5" }, [
         _c("img", {
           staticClass: "img-center img-fluid",
-          attrs: { src: "img/ill/ill-2.svg" }
+          attrs: { src: "images/office.jpg" }
         })
       ])
     ])
@@ -17963,7 +17897,7 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("h5", { staticClass: "title" }, [
-      _c("span", { staticClass: "d-block mb-1" }, [_vm._v("Ryan Tompson")]),
+      _c("span", { staticClass: "d-block mb-1" }, [_vm._v("James Jomuad")]),
       _vm._v(" "),
       _c("small", { staticClass: "h6 text-muted" }, [_vm._v("Web Developer")])
     ])
@@ -17973,7 +17907,7 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("h5", { staticClass: "title" }, [
-      _c("span", { staticClass: "d-block mb-1" }, [_vm._v("Romina Hadid")]),
+      _c("span", { staticClass: "d-block mb-1" }, [_vm._v("Jose Rizal")]),
       _vm._v(" "),
       _c("small", { staticClass: "h6 text-muted" }, [
         _vm._v("Marketing Strategist")
@@ -45618,8 +45552,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! d:\wamp\www\sancap\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! d:\wamp\www\sancap\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! d:\wamp\www\laravel-vue-argon-theme\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! d:\wamp\www\laravel-vue-argon-theme\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
