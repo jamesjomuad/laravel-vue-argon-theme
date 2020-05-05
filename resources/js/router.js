@@ -4,6 +4,7 @@ import AppHeader from "./layout/AppHeader";
 import AppFooter from "./layout/AppFooter";
 import Home from "./views/Home.vue";
 import About from "./views/About.vue";
+import Contact from "./views/Contact.vue";
 import Components from "./views/Components.vue";
 import Landing from "./views/Landing.vue";
 import Login from "./views/Login.vue";
@@ -30,6 +31,15 @@ export default new Router({
       components: {
         header: AppHeader,
         default: About,
+        footer: AppFooter
+      }
+    },
+    {
+      path: "/contact",
+      name: "Contact",
+      components: {
+        header: AppHeader,
+        default: Contact,
         footer: AppFooter
       }
     },
