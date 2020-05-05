@@ -82,3 +82,6 @@
         @include border-bottom-radius($card-border-radius);
     }
 }
+
+.nav-link a{color: #ffffff;}
+.nav-link a.active{color: #6e4099;}
